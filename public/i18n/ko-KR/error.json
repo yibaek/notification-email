@@ -1,0 +1,5 @@
+{
+    "unknown": "기타 오류.",
+    "invalid-parameter": "잘못된 파라미터.",
+    "bad-request": "잘못된 요청."
+}
